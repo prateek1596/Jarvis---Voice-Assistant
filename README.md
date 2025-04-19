@@ -27,15 +27,20 @@ This is a Python-based Voice Assistant project inspired by **J.A.R.V.I.S** from 
 ## 📦 Installation
 
 git clone https://github.com/your-username/voice-assistant.git
+
 cd voice-assistant
+
 pip install -r requirements.txt
 
 If pyaudio doesn't install, use:
+
 pip install pipwin
+
 pipwin install pyaudio
 
 
 ▶️ How to Run
+
 python assistant.py
 
 "play Alan Walker faded"
@@ -51,15 +56,16 @@ python assistant.py
 "increase volume"
 
 💡 Future Plans
-Add GPT-based conversation mode
 
-Add GUI interface using Tkinter/PyQt
+-Add GPT-based conversation mode
 
-Integrate home automation
+-Add GUI interface using Tkinter/PyQt
 
-Add face authentication
+-Integrate home automation
 
-Add command history and context memory
+-Add face authentication
+
+-Add command history and context memory
 
 🧑‍💻 Author
 Prateek
